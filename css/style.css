@@ -65,7 +65,11 @@ body {
   font-size: 48px;
   line-height: 72px;
 }
-
+.caption h3{
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 54px ;
+}
 .caption h2 {
   font-weight: 400;
   font-size: 36px;
@@ -193,9 +197,15 @@ html {
   }
   .caption h1 {
     font-size: 30px;
+    line-height: 30px ;
+  }
+  .caption h3{
+    font-size: 25px;
+    line-height: 30px ;
   }
   .caption h2 {
     font-size: 25px;
+    line-height: 30px ;
   }
   .caption a {
     width: 100px;
@@ -259,11 +269,15 @@ html {
 
   .caption h1 {
     font-size: 19px;
-    line-height: 10px;
+    line-height: 20px;
   }
-
+  .caption h3{
+    font-size: 16px;
+    line-height: 30px ;
+  }
   .caption h2 {
     font-size: 16px;
+    line-height: 20px;
   }
 
   .caption a {
